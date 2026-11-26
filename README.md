@@ -1,6 +1,7 @@
 # PHP Media Gallery
 
 A lightweight, self-hosted PHP gallery for browsing and downloading photographs and videos directly from a web server directory.
+Developed and security reviewed with the help of an llm.
 
 ## Features
 
