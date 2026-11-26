@@ -1,5 +1,3 @@
-Here is the text formatted as Markdown, ready to save as README.md:
-
 PHP Media Gallery
 
 Purpose and Requirements
